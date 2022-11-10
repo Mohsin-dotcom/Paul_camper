@@ -1,5 +1,3 @@
-Hi, I have completed the take home task by here are some details regarding the working.
-
 <li> To run the project and see output please run (node Task.js) command in terminal.  </li>
 <li> I have used fetch in Node.js as it was a requirement.</li>
 <li> Task.js is the main file which holds all the code for assignment.</li>
